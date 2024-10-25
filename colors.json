@@ -1,0 +1,448 @@
+{
+    "0": [
+        "black"
+    ],
+    "1": [
+        "gray"
+    ],
+    "2": [
+        "orange"
+    ],
+    "3": [
+        "green"
+    ],
+    "4": [
+        "orange",
+        "orange"
+    ],
+    "5": [
+        "blue"
+    ],
+    "6": [
+        "orange",
+        "green"
+    ],
+    "7": [
+        "purple"
+    ],
+    "8": [
+        "orange",
+        "orange",
+        "orange"
+    ],
+    "9": [
+        "green",
+        "green"
+    ],
+    "10": [
+        "orange",
+        "blue"
+    ],
+    "11": [
+        "red"
+    ],
+    "12": [
+        "orange",
+        "orange",
+        "green"
+    ],
+    "13": [
+        "red"
+    ],
+    "14": [
+        "orange",
+        "purple"
+    ],
+    "15": [
+        "green",
+        "blue"
+    ],
+    "16": [
+        "orange",
+        "orange",
+        "orange",
+        "orange"
+    ],
+    "17": [
+        "red"
+    ],
+    "18": [
+        "orange",
+        "green",
+        "green"
+    ],
+    "19": [
+        "red"
+    ],
+    "20": [
+        "orange",
+        "orange",
+        "blue"
+    ],
+    "21": [
+        "green",
+        "purple"
+    ],
+    "22": [
+        "orange",
+        "red"
+    ],
+    "23": [
+        "red"
+    ],
+    "24": [
+        "orange",
+        "orange",
+        "orange",
+        "green"
+    ],
+    "25": [
+        "blue",
+        "blue"
+    ],
+    "26": [
+        "orange",
+        "red"
+    ],
+    "27": [
+        "green",
+        "green",
+        "green"
+    ],
+    "28": [
+        "orange",
+        "orange",
+        "purple"
+    ],
+    "29": [
+        "red"
+    ],
+    "30": [
+        "orange",
+        "green",
+        "blue"
+    ],
+    "31": [
+        "red"
+    ],
+    "32": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange"
+    ],
+    "33": [
+        "green",
+        "red"
+    ],
+    "34": [
+        "orange",
+        "red"
+    ],
+    "35": [
+        "blue",
+        "purple"
+    ],
+    "36": [
+        "orange",
+        "orange",
+        "green",
+        "green"
+    ],
+    "37": [
+        "red"
+    ],
+    "38": [
+        "orange",
+        "red"
+    ],
+    "39": [
+        "green",
+        "red"
+    ],
+    "40": [
+        "orange",
+        "orange",
+        "orange",
+        "blue"
+    ],
+    "41": [
+        "red"
+    ],
+    "42": [
+        "orange",
+        "green",
+        "purple"
+    ],
+    "43": [
+        "red"
+    ],
+    "44": [
+        "orange",
+        "orange",
+        "red"
+    ],
+    "45": [
+        "green",
+        "green",
+        "blue"
+    ],
+    "46": [
+        "orange",
+        "red"
+    ],
+    "47": [
+        "red"
+    ],
+    "48": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "green"
+    ],
+    "49": [
+        "purple",
+        "purple"
+    ],
+    "50": [
+        "orange",
+        "blue",
+        "blue"
+    ],
+    "51": [
+        "green",
+        "red"
+    ],
+    "52": [
+        "orange",
+        "orange",
+        "red"
+    ],
+    "53": [
+        "red"
+    ],
+    "54": [
+        "orange",
+        "green",
+        "green",
+        "green"
+    ],
+    "55": [
+        "blue",
+        "red"
+    ],
+    "56": [
+        "orange",
+        "orange",
+        "orange",
+        "purple"
+    ],
+    "57": [
+        "green",
+        "red"
+    ],
+    "58": [
+        "orange",
+        "red"
+    ],
+    "59": [
+        "red"
+    ],
+    "60": [
+        "orange",
+        "orange",
+        "green",
+        "blue"
+    ],
+    "61": [
+        "red"
+    ],
+    "62": [
+        "orange",
+        "red"
+    ],
+    "63": [
+        "green",
+        "green",
+        "purple"
+    ],
+    "64": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange"
+    ],
+    "65": [
+        "blue",
+        "red"
+    ],
+    "66": [
+        "orange",
+        "green",
+        "red"
+    ],
+    "67": [
+        "red"
+    ],
+    "68": [
+        "orange",
+        "orange",
+        "red"
+    ],
+    "69": [
+        "green",
+        "red"
+    ],
+    "70": [
+        "orange",
+        "blue",
+        "purple"
+    ],
+    "71": [
+        "red"
+    ],
+    "72": [
+        "orange",
+        "orange",
+        "orange",
+        "green",
+        "green"
+    ],
+    "73": [
+        "red"
+    ],
+    "74": [
+        "orange",
+        "red"
+    ],
+    "75": [
+        "green",
+        "blue",
+        "blue"
+    ],
+    "76": [
+        "orange",
+        "orange",
+        "red"
+    ],
+    "77": [
+        "purple",
+        "red"
+    ],
+    "78": [
+        "orange",
+        "green",
+        "red"
+    ],
+    "79": [
+        "red"
+    ],
+    "80": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "blue"
+    ],
+    "81": [
+        "green",
+        "green",
+        "green",
+        "green"
+    ],
+    "82": [
+        "orange",
+        "red"
+    ],
+    "83": [
+        "red"
+    ],
+    "84": [
+        "orange",
+        "orange",
+        "green",
+        "purple"
+    ],
+    "85": [
+        "blue",
+        "red"
+    ],
+    "86": [
+        "orange",
+        "red"
+    ],
+    "87": [
+        "green",
+        "red"
+    ],
+    "88": [
+        "orange",
+        "orange",
+        "orange",
+        "red"
+    ],
+    "89": [
+        "red"
+    ],
+    "90": [
+        "orange",
+        "green",
+        "green",
+        "blue"
+    ],
+    "91": [
+        "purple",
+        "red"
+    ],
+    "92": [
+        "orange",
+        "orange",
+        "red"
+    ],
+    "93": [
+        "green",
+        "red"
+    ],
+    "94": [
+        "orange",
+        "red"
+    ],
+    "95": [
+        "blue",
+        "red"
+    ],
+    "96": [
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "orange",
+        "green"
+    ],
+    "97": [
+        "red"
+    ],
+    "98": [
+        "orange",
+        "purple",
+        "purple"
+    ],
+    "99": [
+        "green",
+        "green",
+        "red"
+    ],
+    "100": [
+        "orange",
+        "orange",
+        "blue",
+        "blue"
+    ],
+    "101": [
+        "red"
+    ]
+}
